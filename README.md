@@ -10,7 +10,7 @@ I have always liked the idea of being able to turn whatever idea I had in my min
 ![Next.JS](https://img.shields.io/badge/Next.JS-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql)
-![Supabase](https://img.shields.io/badge/Prisma-000000?logo=supabase)
+![Supabase](https://img.shields.io/badge/Supabase-000000?logo=supabase)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?logo=prisma)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?logo=stripe)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss)
