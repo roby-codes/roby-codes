@@ -4,7 +4,7 @@ My passion for programming began in early 2015 when I built my first website to 
 
 I have always liked the idea of being able to turn whatever idea I had in my mind into reality, and now I am here to help you build yours.
 
-If you're seeking a partner who consistently produces high-quality code and is dedicated to refining your project until it achieves perfection, then I'm here for you!
+If you're seeking a partner who develops high-quality code and is dedicated to working on your project until it achieves perfection, then I'm here for you!
 
 ###### This is my favorite Tech Stack 👇
 
