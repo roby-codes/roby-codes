@@ -30,6 +30,7 @@ const HeroSection = () => (
           className="flex justify-center flex-1 px-3 py-2 rounded bg-black hover:bg-black/80 duration-300"
           href="https://github.com/roby-codes"
           target="_blank"
+          aria-label="Github Link"
         >
           <AiFillGithub className="h-6 w-6 text-white" />
         </a>
@@ -37,6 +38,7 @@ const HeroSection = () => (
           className="flex justify-center flex-1 px-3 py-2 rounded bg-black hover:bg-black/80 duration-300"
           href="https://wa.me/+393395457864?text=Hey%20there%21%20I%20found%20your%20portfolio%20and%20i%20would%20like%20to%20have%20a%20chat%20with%20you."
           target="_blank"
+          aria-label="WhatsApp Link"
         >
           <AiOutlineWhatsApp className="h-6 w-6 text-white" />
         </a>
@@ -44,6 +46,7 @@ const HeroSection = () => (
           className="flex justify-center flex-1 px-3 py-2 rounded bg-black hover:bg-black/80 duration-300"
           href="https://www.instagram.com/aka_ale_xander/"
           target="_blank"
+          aria-label="Instagram Link"
         >
           <AiOutlineInstagram className="h-6 w-6 text-white" />
         </a>
