@@ -22,7 +22,7 @@ const HeroSection = () => (
       <div>
         <h1 className="text-center text-2xl font-semibold">Roby Codes</h1>
         <h2 className="text-center text-lg font-thin">
-          Bringing Your Vision Into Reality
+          Turning Your Vision Into Reality
         </h2>
       </div>
       <div className="flex-1 flex gap-3">
