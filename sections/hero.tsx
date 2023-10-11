@@ -7,7 +7,7 @@ import {
 import ProfilePic from "@/public/images/roby-codes.jpg";
 
 const HeroSection = () => (
-  <section className="min-h-screen flex justify-center items-center px-8">
+  <section className="h-[100dvh] flex justify-center items-center px-8">
     <div className="flex flex-col gap-4 py-8 px-16 rounded bg-white shadow-sm">
       <div className="self-center h-40 w-40 relative rounded-full overflow-hidden cursor-pointer select-none">
         <Image
