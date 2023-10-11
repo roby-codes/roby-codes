@@ -15,6 +15,7 @@ const HeroSection = () => (
           draggable="false"
           src={ProfilePic}
           alt="Roby Codes Profile Picture"
+          priority
           fill
         />
       </div>
