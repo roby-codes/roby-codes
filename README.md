@@ -10,6 +10,7 @@ I'm a freelancer, but I am open to long-term project opportunities and jobs with
 
 ###### This is my favorite Tech Stack 👇
 
+![React](https://img.shields.io/badge/React-000000?logo=react)
 ![Next.JS](https://img.shields.io/badge/Next.JS-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql)
