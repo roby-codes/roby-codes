@@ -14,7 +14,7 @@ I'm a freelancer, but I am open to long-term project opportunities and jobs with
 ![Next.JS](https://img.shields.io/badge/Next.JS-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?logo=stripe)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss)
 
