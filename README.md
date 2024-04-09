@@ -12,10 +12,12 @@ I'm a freelancer, but I am open to long-term project opportunities and jobs with
 
 ![React](https://img.shields.io/badge/React-000000?logo=react)
 ![Next.JS](https://img.shields.io/badge/Next.JS-000000?logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?logo=drizzle)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?logo=stripe)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss)
+![Docker](https://img.shields.io/badge/Docker-000000?logo=docker)
 
 > You can explore the projects I've developed on **[my website](https://robycodes.com/)**.
