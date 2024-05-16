@@ -23,6 +23,6 @@ I am currently working as a freelancer but I am open to full-stack contract job 
 
 ![Docker](https://img.shields.io/badge/Docker-000000?logo=docker)
 ![Ubunto Server](https://img.shields.io/badge/Ubuntu_Server-000000?logo=ubuntu)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx)
+![NGINX](https://img.shields.io/badge/NGINX-000000?logo=nginx)
 
 > You can explore more of the projects I've developed on **[my website](https://robycodes.com/)**.
