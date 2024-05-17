@@ -8,7 +8,7 @@ I have always liked the idea of being able to turn whatever idea I had in my min
 
 I am currently working as a freelancer but I am open to full-stack contract job opportunities.
 
-###### This is my favourite Tech Stack 👇
+###### This is my Tech Stack 👇
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![React](https://img.shields.io/badge/React-000000?logo=react)
@@ -19,7 +19,7 @@ I am currently working as a freelancer but I am open to full-stack contract job 
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?logo=drizzle)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?logo=stripe)
 
-###### What i use to Deploy my Web Applications / Websites 👇
+###### What i use to Deploy Projects 👇
 
 ![Docker](https://img.shields.io/badge/Docker-000000?logo=docker)
 ![Ubunto Server](https://img.shields.io/badge/Ubuntu_Server-000000?logo=ubuntu)

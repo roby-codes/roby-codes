@@ -5,10 +5,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(`${process.env.NEXT_PUBLIC_ROOT_URL}`),
   title: "Roby Codes",
-  description: "Hello! 👋 I'm Roby, a Full Stack Developer from Italy.",
+  description: "Hello! 👋 I'm Roby, a Full-Stack Web Developer from Italy.",
   openGraph: {
     title: "Roby Codes",
-    description: "Hello! 👋 I'm Roby, a Full Stack Developer from Italy.",
+    description: "Hello! 👋 I'm Roby, a Full-Stack Web Developer from Italy.",
     images: ["/images/meta-image.jpg"],
   },
 };
