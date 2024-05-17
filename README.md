@@ -19,7 +19,7 @@ I am currently working as a freelancer but I am open to full-stack contract job 
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?logo=drizzle)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?logo=stripe)
 
-###### What i use to Deploy Projects 👇
+###### What i use to deploy Apps / Websites 👇
 
 ![Docker](https://img.shields.io/badge/Docker-000000?logo=docker)
 ![Ubunto Server](https://img.shields.io/badge/Ubuntu_Server-000000?logo=ubuntu)
