@@ -13,10 +13,11 @@ I am currently working as a freelancer but I am open to full-stack contract job 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![React](https://img.shields.io/badge/React-000000?logo=react)
 ![Next.JS](https://img.shields.io/badge/Next.JS-000000?logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?logo=framer)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?logo=payloadcms)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?logo=drizzle)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?logo=framer)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?logo=stripe)
 
 ###### What i use to deploy my Apps & Websites 👇
