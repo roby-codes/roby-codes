@@ -1,6 +1,6 @@
 ![Hero Image](public/images/hero-image/hero-image-two.png)
 
-### Hello! 👋 I'm Roby, a Full-Stack Web Developer from Italy.
+### Hello! 👋 I'm Roby, a Full-Stack Developer from Italy.
 
 My passion for programming began in early 2015 when I built my first website to sell my product at the age of 15. Since then, I have gained a lot of experience and knowledge in multiple programming languages and frameworks.
 
